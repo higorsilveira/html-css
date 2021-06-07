@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h3{
+    color:purple;
+    text-align: center;
+}
+body{
+    background-color: #ccc;
+}
+th{
+    background-color: #000;
+    color: #fff;
+}
+
+.header{
+    background-color: yellow; 
+    padding-top: 20px;
+    text-align: center;
+}
+
+.footer{
+    background-color: yellow; 
+    padding-bottom: 20px;
+    text-align: center;
+    color: green;
+}
